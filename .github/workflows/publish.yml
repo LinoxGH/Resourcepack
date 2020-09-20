@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - Tests
     
 jobs:
   compile:
